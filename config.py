@@ -1,0 +1,16 @@
+#TELEGRAM_BOT_TOKEN = "6125209435:AAFbiGRB__pKy9qgQJ5epmiBFRAdCTvu1Ag" #prod
+TELEGRAM_BOT_TOKEN = "7428257896:AAEepkWZ-9lSIdLFFfHrT5RY3uq79fmSWe0" #test
+
+LOGGING_MESSAGES_FILE = "messages.txt"
+LOGGING_ACTIONS_FILE = "actions.txt"
+LOGGING_ACTIONS = True
+
+BD_FILE_NAME = "wifiexpert.db"
+
+ADMIN_IDS = [1465154959, 492921735,5122459952]
+
+MAX_ELS_IN_PAGE = 8
+
+
+from datetime import date
+today = date. today()
